@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="classes"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/BD/mysql-connector-java-3.0.14-production-bin.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/itext-pdfa-5.5.0.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/itextpdf-5.5.0.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/jasperreports-6.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/jasperreports-fonts-light.jar"/>
+	<classpathentry kind="lib" path="libs/ireport/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/BD/gerenciador_bd_compilacao_17_10_15.jar"/>
+	<classpathentry kind="lib" path="libs/componentes/campo_de_texto_compilacao_02_10_2015.jar"/>
+	<classpathentry kind="lib" path="libs/login/VoceNaoVaiPassar_2.0.jar"/>
+	<classpathentry kind="lib" path="libs/data/joda-time-2.7.jar"/>
+	<classpathentry kind="lib" path="libs/licenciamento/pagueOaluguel_comp_20122015.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

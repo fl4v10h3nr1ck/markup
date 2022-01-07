@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="markup"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/BD/gerenciador_bd_2.0.jar"/>
+	<classpathentry kind="lib" path="libs/BD/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="lib" path="libs/formatacao/campo_de_texto_compilacao_02_10_2015.jar"/>
+	<classpathentry kind="lib" path="libs/pdf/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
